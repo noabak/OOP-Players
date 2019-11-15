@@ -1,0 +1,3 @@
+
+{'first_name': 'luis', 'last_name': 'perez', 'height_cm': 180.0, 'weight_kg': 89.0, 'goals': 45, 'yellow_cards': 7, 'red_cards': 4}
+{'first_name': 'luisito', 'last_name': 'ramirez', 'height_cm': 190.0, 'weight_kg': 90.0, 'points': 3, 'rebounds': 2, 'assists': 34}
